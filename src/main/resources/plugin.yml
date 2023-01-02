@@ -1,0 +1,6 @@
+name: SimpleBukkitPlugin
+main: dev.jorel.simplebukkitplugin.Main
+version: 1.0.0
+api-version: 1.19
+commands:
+  mycommand:
